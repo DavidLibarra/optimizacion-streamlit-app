@@ -93,4 +93,4 @@ La app incluye un conjunto de funciones de prueba predefinidas, tanto univariada
 
 ## Licencia
 
-MIT (puedes reemplazar esta sección si prefieres otra licencia).
+MIT.
